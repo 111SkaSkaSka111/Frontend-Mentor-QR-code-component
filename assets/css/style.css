@@ -61,7 +61,7 @@ body {
     position: absolute;
     width: 100%;
     height: 150%;
-    background: repeating-conic-gradient(#00c9fc 0%, #00c9fc 5%, transparent 5%, transparent 40%, #00c9fc 50%);
+    background: repeating-conic-gradient(#014bc2 0%, #014bc2 5%, transparent 5%, transparent 40%, #014bc2 50%);
     animation: rotate 3s linear infinite 0.7s;
 }
 
